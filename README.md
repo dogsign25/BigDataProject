@@ -70,3 +70,7 @@ streamlit run app.py
 - 이동현
 - 김진우
 - 김동진
+- 
+### 시연 영상
+https://github.com/user-attachments/assets/c8aeb50a-f37e-4a28-bfd3-3a51c682207e
+
