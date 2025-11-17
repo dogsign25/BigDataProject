@@ -67,6 +67,6 @@ streamlit run app.py
 - 시각화: Plotly (Express, Graph Objects)
 
 ### 팀원 소개
-팀원 이동현
-팀원 김진우
-팀원 김동진
+- 이동현
+- 김진우
+- 김동진
