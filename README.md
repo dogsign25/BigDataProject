@@ -42,7 +42,8 @@ pip install streamlit pandas plotly numpy
 
 
 # 프로젝트 파일 구조:
-bash```
+bash
+```
 real_estate_dashboard/
 ├── app.py                # 홈 화면 및 데이터 로드 정의
 ├── seoul.csv             # 원본 데이터 파일
@@ -54,25 +55,18 @@ real_estate_dashboard/
 
 ### 2. 대시보드 실행
 - 프로젝트 루트 디렉토리로 이동한 후, 터미널에서 다음 명령어를 실행합니다:
-
+```
 streamlit run app.py
+```
+- 명령어를 실행하면, 웹 브라우저에서 대시보드가 열리고 분석 결과를 확인할 수 있습니다.
 
+### 사용된 기술 스택
+- 언어: Python
+- 프레임워크: Streamlit
+- 데이터 처리: Pandas
+- 시각화: Plotly (Express, Graph Objects)
 
-명령어를 실행하면, 웹 브라우저에서 대시보드가 열리고 분석 결과를 확인할 수 있습니다.
-
-사용된 기술 스택
-
-언어: Python
-
-프레임워크: Streamlit
-
-데이터 처리: Pandas
-
-시각화: Plotly (Express, Graph Objects)
-
-팀원 소개
-
-이 프로젝트는 다양한 데이터 분석 및 시각화 기술을 활용하여, 사용자들에게 직관적이고 유용한 부동산 데이터를 제공하는 것을 목표로 합니다.
-팀원 A
-팀원 B
-팀원 C
+### 팀원 소개
+팀원 이동현
+팀원 김진우
+팀원 김동진
